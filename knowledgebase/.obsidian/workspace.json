@@ -15,7 +15,7 @@
               "state": {
                 "file": "Frontend/NextJS/Basic Auth (and other types) in NextJS.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -146,6 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b812d8759a050a85",
+  "active": "8c048bc5487a8630",
   "lastOpenFiles": []
 }
