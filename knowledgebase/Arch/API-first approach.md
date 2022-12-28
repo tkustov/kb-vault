@@ -17,6 +17,7 @@ Pros:
 1. There is one source of truth, that describes contract between Server and Client
 2. Types, generated from API spec, will help during coding
 3. Schemes generated from API spec make runtime checking easier
+4. Docs is also can be generated from the same API spec
 
 Cons:
 1. Another abstraction, One more dep in your project
